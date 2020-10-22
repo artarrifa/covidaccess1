@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server" : "localhost",
+        "user" : "ucovidav_admin",
+        "password" : "Admin3451",
+        "database" : "ucovidav_covidaccessverificacion"
+        
+    }
+}
